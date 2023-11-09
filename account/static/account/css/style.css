@@ -1,0 +1,49 @@
+.click-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: red;
+  color: white;
+  text-decoration: none;
+}
+
+.border-click-btn {
+  margin-bottom: 100px;
+}
+
+.share-btn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10%;
+  background-color: #ff0000;
+  color: white;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-btn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10%;
+  color: white;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.social-media-btn-instagram {
+  background-color: #e1306c;
+}
+.social-media-btn-twitter {
+  background-color: #1da1f2;
+}
+.social-media-btn-linkedin {
+  background-color: #0077b5;
+}
+.social-media-btn-you-tube {
+  background-color: #ff0000;
+}
